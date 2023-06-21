@@ -14,10 +14,10 @@ import (
 	"testing"
 
 	"github.com/go-kit/kit/log"
-	"github.com/mozillazg/go-cos"
+	"github.com/xld4coding/go-cos"
 	"github.com/pkg/errors"
-	"github.com/thanos-io/thanos/pkg/objstore"
-	"github.com/thanos-io/thanos/pkg/runutil"
+	"github.com/xld4coding/thanos-0-11/pkg/objstore"
+	"github.com/xld4coding/thanos-0-11/pkg/runutil"
 	"gopkg.in/yaml.v2"
 )
 
